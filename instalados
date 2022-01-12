@@ -1,0 +1,15 @@
+n
+ 
+npm install express --save
+npm install dotenv --save
+
+mongoose
+npm init --y
+pm install mongoose --save
+npm i mongoose-unique-validator
+
+jwt
+npm install jsonwebtoken --save
+
+npm install express-jwt --save
+npm install @paypal/react-paypal-js
